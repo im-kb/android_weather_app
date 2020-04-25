@@ -25,6 +25,7 @@ public class Main implements Serializable {
         return temp_min;
     }
 
+
     public double getTemp_max() {
         return temp_max;
     }
