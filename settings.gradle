@@ -1,0 +1,2 @@
+rootProject.name='ppsm_weather_budzik'
+include ':app'
